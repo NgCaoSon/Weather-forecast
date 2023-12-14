@@ -1,4 +1,4 @@
-datetime,temp (K),feels_like,pressure,humidity,temp_min,temp_max,wind_speed,wind_deg,clouds_all,id_weatrher,main_weatrher,description_weatrher,icon_weatrher
+datetime,temp (K),feels_like,pressure,humidity,temp_min,temp_max,wind_speed,wind_deg,clouds_all,id_weather,main_weather,description_weather,icon_weather
 2022-12-09 17:00:00,299.16,299.16,1010.0,94.0,299.16,299.16,1.03,0.0,40.0,802.0,Clouds,scattered clouds,03n
 2022-12-09 18:00:00,299.16,299.16,1009.0,94.0,299.16,299.16,1.03,0.0,40.0,802.0,Clouds,scattered clouds,03n
 2022-12-09 19:00:00,298.16,299.33,1009.0,100.0,298.16,298.16,1.03,0.0,40.0,802.0,Clouds,scattered clouds,03n
